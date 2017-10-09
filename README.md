@@ -13,7 +13,7 @@ git clone https://github.com/freekrai/adonis-app -b master --single-branch NEWPR
 or *(if `--single-branch` doesn't work)*
 
 ```
-git clone https://github.com/freekrai/adonis-app -b master --depth 0 NEWPROJECT
+git clone https://github.com/freekrai/adonis-app -b master --depth 1 NEWPROJECT
 ```
 
 ## Story
