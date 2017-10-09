@@ -10,7 +10,7 @@ This repo is the pre-configured project structure to be used for creating ambiti
 git clone https://github.com/freekrai/adonis-app -b master --single-branch NEWPROJECT
 ```
 
-or _(if `--single-branch` doesn't work)
+or *(if `--single-branch` doesn't work)*
 
 ```
 git clone https://github.com/freekrai/adonis-app -b master --depth 0 NEWPROJECT
